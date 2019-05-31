@@ -141,3 +141,6 @@ typedoc
 
 # autorest generated files
 swagger/*.json
+
+# Types folders
+types
